@@ -10,6 +10,9 @@ function shedsProduction() {
   function totalProduction(production){
     return production.reduce()
   }
+  var sellingPrice = document.getElementById('price').value;
+  var time = document.getElementById('time').value;
+
   function incomeoverTime(sellingPrice, time){
     let totalEarning= totalLitres*sellingPrice*time
     return totalEarning;
