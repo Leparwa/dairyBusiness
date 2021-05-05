@@ -9,11 +9,21 @@
 <script src="index.js" type="text/javascript"></script>       
 </head>
 <body>
+
     <div class="container">
         <form>
             <label for="litres">Litres</label><br>
             <input type="number" id="litres" name="litres">
             <button type="button" onclick="shedsProduction()">Add Production</button>
+          </form>
+    </div>
+    <div class="totalProductionPerTime">
+        <form>
+            <label for="litres">Time</label><br>
+            <input type="number" id="litres" name="litres">
+            <label for="litres">Price Per Litre</label><br>
+            <input type="number" id="price" name="price">
+            <button type="button" onclick="incomeoverTime()">Calculate Total</button>
           </form>
     </div>
 </body>
