@@ -1,9 +1,8 @@
 # Dairy Business
-#### this website give a brief description of my favorite band. I like Wakadinali
+#### this site gives a brief overview of simulation of dairy business. the user can have a see there earning on yearly basis
 #### By **Kevin Leresi Leparwa**
 ## Description
-
-The site will provide a brief information about Wakadinali and their their songs
+Users can enter their production per shade, then after a calculation they are supposed to see their total earning per year, week or monthly
 ## Setup/Installation Requirements
 * Visual Studio Code
 * Browser
@@ -11,7 +10,7 @@ The site will provide a brief information about Wakadinali and their their songs
 ## Known Bugs
 
 ## Technologies Used
-HTML  CSS and CSS 
+HTML  CSS and JS
 ## Support and contact details
 kevin.leparwa@student.moringaschool.com
 
